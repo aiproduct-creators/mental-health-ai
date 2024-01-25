@@ -21,8 +21,8 @@ To run this app locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/bdhaval/private-document-chat
-   cd private-document-chat
+   git clone https://github.com/aiproduct-creators/mental-health-ai
+   cd mental-health-ai
    ```
 
 2. **Set Up a Python Environment:**
@@ -36,16 +36,12 @@ To run this app locally, follow these steps:
    pip install -r requirements.txt
    ```
 
-4. **Add Your Private Data:**
-   
-   Add your private data in the `data` folder
-
-5. **Run the Application:**
+4. **Run the Application:**
    ```bash
    streamlit run app.py
    ```
 
-6. **Access the App:**
+5. **Access the App:**
 
    Open your web browser and go to http://localhost:8501.
 
